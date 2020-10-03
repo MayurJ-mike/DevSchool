@@ -1,0 +1,15 @@
+side-navbar{
+    background-color: mediumpurple;
+    min-width: fit-content;
+    min-height: fit-content;
+}
+.side-navbar-list{
+    position: relative;
+    margin: 10px 10px;
+    background-color: mediumspringgreen;
+}
+
+.side-navbar-list-item{
+    margin: 5px 0;
+    background-color: snow;
+}
